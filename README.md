@@ -4,6 +4,7 @@
 This repository contains application of Greedy Algoritma for a game called Diamonds.
 
 The most efficient bot in this project are `src/logic/garox.py`, `src/logic/unused/D.py`, with `garox.py` being the best overall.
+
 Algoritma Garox dirancang sebagai bot yang "full ofensif", agresif, dan oportunistik. Logika utamanya mengevaluasi serangkaian kondisi secara hierarkis pada setiap giliran untuk menentukan tindakan terbaik
 
 # 💎 Etimo Diamonds 2
